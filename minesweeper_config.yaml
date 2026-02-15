@@ -1,0 +1,4 @@
+## Minesweeper Agent Configuration - Phase 2 ##
+max_new_tokens: 128
+temperature: 0.1
+do_sample: true
